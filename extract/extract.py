@@ -2,7 +2,8 @@ import requests
 import pandas as pd
 import random
 
-# http://www.omdbapi.com/?t=Inception&apikey=8752edff
+# Coloque sua chave API no final para teste
+# http://www.omdbapi.com/?t=Inception&apikey=
 
 # Configurações
 API_KEY = "SUA_API_KEY"  # Substitua pela sua chave da OMDb
